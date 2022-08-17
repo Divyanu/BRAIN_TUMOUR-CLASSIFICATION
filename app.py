@@ -98,28 +98,3 @@ if choice == "Image":
                 st.write("It is Pituitary_Tumour")
             
             st.success("Success")
-            
-        
-    
-
-        
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-  
-        
-
-
